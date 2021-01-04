@@ -100,6 +100,11 @@ p {
   text-decoration: underline;
   color: #6F00A2;
 }
+.description a:hover{
+  text-decoration: underline;
+  color: red;
+}
+
 .project-info a{
   text-decoration: underline;
 }
